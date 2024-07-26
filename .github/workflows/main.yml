@@ -13,4 +13,4 @@ jobs:
     - name: Run Bash script
       run: |
         chmod 777 ./script.sh
-        ./script.sh
+        sudo ./script.sh
