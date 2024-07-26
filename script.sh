@@ -4,7 +4,7 @@ echo ""
 echo ""
 echo ""
 
-echo $pwd
+pwd
 cat /etc/resolv.conf
 ls
 
