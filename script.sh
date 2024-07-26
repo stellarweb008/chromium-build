@@ -5,6 +5,7 @@ echo ""
 echo ""
 
 echo $pwd
+cat /etc/resolv.conf
 ls
 
 #sudo echo "nameserver 8.8.8.8" >> /etc/resolv.conf
